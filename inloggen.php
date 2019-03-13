@@ -30,6 +30,8 @@
     <input type="password" class="form-control" id="InputPassword1" placeholder="Wachtwoord">
   </div>
   <button type="submit" class="btn btn-primary">Login</button>
+  <a class="btn btn-primary" href="registreren.php" role="button">Registreren</a>
+
 </form>
 
       </div>
