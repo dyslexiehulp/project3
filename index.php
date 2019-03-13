@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -28,13 +29,13 @@
             </ol>
             <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="..." class="d-block w-100" alt="...">
+              <img src="./image/scrabble.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
               <img src="..." class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="..." class="d-block w-100" alt="...">
+              <img src="" class="d-block w-100" alt="...">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="Vorige">

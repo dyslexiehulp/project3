@@ -1,10 +1,10 @@
 <?php
 include("./navbar.php");
 include("./connectdb.php");
-$email = $_POST["email"];
+// $email = $_POST["email"]; 
 if ( empty($_POST["email"])) {
     echo '<div class="alert alert-warning" role="alert">U heeft geen e-mailadres ingevoerd. Dit is een verplicht veld. Probeer het nogmaals</div>';
-    header("Refresh: 3; url=./index.php?content=register_form");
+    header("Refresh: 60; url=./registreren.php?content=register_form");
 } else {
     $sql = "SELECT * FROM `inloggen` WHERE `email` = '$email'";
     $result = mysqli_query($conn, $sql);
