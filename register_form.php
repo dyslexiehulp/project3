@@ -12,7 +12,7 @@
             </div>
             <div class="form-group">
                 <label for="InputEmail1">E-mailadres</label>
-                <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp"
+                <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp"
                        placeholder="Voer uw e-mailadres in..." name="email" required>
                 <small id="emailHelp" class="form-text text-muted">Wij zullen nooit uw e-mailadres delen met anderen.</small>
             </div>
