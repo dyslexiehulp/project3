@@ -76,9 +76,9 @@
                       Oefening 3
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title">voorbeeld</h5>
-                    <p class="card-text">Hey, misschien is het niet de leukste oefening,<br> 
-                      maar schrijf woordjes die je moet leren over.<br>
+                    <h5 class="card-title">Uitleggen</h5>
+                    <p class="card-text">Lees eerst wat je moet leren goed door<br> 
+                      en leg het daarna aan iemand uit.<br>
                       We hebben het met diverse personen getest en het helpt echt!</p>
                   </div>
                   <div class="card-footer text-muted">
