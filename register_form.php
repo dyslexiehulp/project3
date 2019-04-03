@@ -3,6 +3,7 @@
         <h1>Registratie</h1>
     </div>
 </div>
+<!-- dit is het registratie formulier -->
 <div class="row">
     <div class="col-6">
         <form action="./registeren.php?content=register" method="post">

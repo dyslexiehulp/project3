@@ -15,6 +15,7 @@
     <main class="container">
       <div class="row">
           <div class="col-12">
+          <!--Import van de navbar -->
               <?php include("./navbar.php"); ?>
           </div>
       </div>

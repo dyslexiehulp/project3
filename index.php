@@ -17,9 +17,11 @@
     <main class="container">
       <div class="row">
           <div class="col-12">
+          <!--import van de navbar -->
               <?php include("./navbar.php"); ?>
           </div>
         </div>
+        <!-- hier staat het carousel inclusief de afbeeldingen -->
       <div class="row">
         <div class="col-12">
           <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -50,13 +52,14 @@
       </div>
         </div>
           </div>
+          <!-- informatie over de website -->
           <div class="row">
             <div class="col-12">
               <div class="jumbotron">
               <h1 class="display-4">Welkom!</h1>
-              <p class="lead">Lorum ipsum</p>
+              <p class="lead">Dyslexie? Wij helpen je verder!</p>
               <hr class="my-4">
-              <p>Lorum Ipsum</p>
+              <p>Hey, </p>
               </div>
               </div>
             </div>

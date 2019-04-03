@@ -18,6 +18,7 @@
               <?php include("./navbar.php"); ?>
           </div>
       </div>
+      //inlog formulier
       <div class="row">
           <div class="col-12">
           <form>

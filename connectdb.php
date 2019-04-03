@@ -1,3 +1,4 @@
+<!-- hiermee maken we verbinding met de database -->
 <?php
 
 define("SERVERNAME", "localhost");
