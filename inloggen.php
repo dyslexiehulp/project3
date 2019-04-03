@@ -18,7 +18,7 @@
               <?php include("./navbar.php"); ?>
           </div>
       </div>
-      //inlog formulier
+      Inlog formulier
       <div class="row">
           <div class="col-12">
           <form>
@@ -31,7 +31,7 @@
     <input type="password" class="form-control" id="InputPassword1" placeholder="Wachtwoord">
   </div>
   <button type="submit" class="btn btn-primary">Login</button>
-  <a class="btn btn-primary" href="registreren.php" role="button">Registreren</a>
+  <a class="btn btn-primary" href="register_form.php" role="button">Registreren</a>
 
 </form>
 
