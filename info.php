@@ -71,6 +71,12 @@ Met het onthouden van losse gegevens, zoals rijtjes, woordjes en jaartallen
             </div>
           </div>
       </div>
+      <!--import van de footer -->
+      <div class="row">
+          <div class="col-12">
+              <?php include("./footer.php"); ?>
+          </div>
+      </div>
 
     </main>
 

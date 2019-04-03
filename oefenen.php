@@ -19,6 +19,82 @@
               <?php include("./navbar.php"); ?>
           </div>
       </div>
+      <!-- Hieronder komen diverse oefeningen -->
+      <!-- oefening 1-->
+      <div class="row">
+          <div class="col-12">
+              <div class="card text-center">
+                  <div class="card-header">
+                      Oefening 1
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">Overschrijven</h5>
+                    <p class="card-text">Hey, misschien is het niet de leukste oefening,<br> 
+                      maar schrijf woordjes die je moet leren over.<br>
+                      We hebben het met diverse personen getest en het helpt echt!</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                        By Dyslexiehulp
+                  </div>
+              </div>
+          </div>
+      </div>
+
+            <!-- oefening 2-->
+            <div class="row">
+          <div class="col-12">
+              <div class="card text-center">
+                  <div class="card-header">
+                      Oefening 2
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">Kaartjes</h5>
+                    <p class="card-text">Bij deze oefening moet je wel wat meer voorbereiden<br> 
+                      zorg ervoor dat je verschillende kaarten hebt<br>
+                      het liefst ook van dezelfde kleur, zodat je niet weet welke vraag <br>
+                      bij welk kaarje hoort. <br>
+                      Verder schrijf je op 1 kant van het kaartje een vraag<br>
+                      en op de achterkant van het kaartje het antwoord op de vraag<br>
+                      Hussel de kaartjes daarna en ga proberen de vraag te beantwoorden<br>
+                      Of in het geval van woordjes leren kun je ook <br>
+                      het de betekenis bij het woord proberen te beantwoorden <br>
+                      en andersom. <br>
+                      Succes!</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                        By Dyslexiehulp
+                  </div>
+              </div>
+          </div>
+      </div>
+
+            <!-- oefening 3-->
+            <div class="row">
+          <div class="col-12">
+              <div class="card text-center">
+                  <div class="card-header">
+                      Oefening 3
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">voorbeeld</h5>
+                    <p class="card-text">Hey, misschien is het niet de leukste oefening,<br> 
+                      maar schrijf woordjes die je moet leren over.<br>
+                      We hebben het met diverse personen getest en het helpt echt!</p>
+                  </div>
+                  <div class="card-footer text-muted">
+                        By Dyslexiehulp
+                  </div>
+              </div>
+          </div>
+      </div>
+
+
+            <!--import van de footer -->
+      <div class="row">
+          <div class="col-12">
+              <?php include("./footer.php"); ?>
+          </div>
+      </div>
 
     </body>
 </html>
