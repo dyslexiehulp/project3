@@ -20,12 +20,22 @@
               <?php include("./navbar.php"); ?>
           </div>
       </div>
+      <!--hier staat de tekst van onver ons -->
       <div class="row">
         <div class="col-12">
+          <div class="jumbotron">
+              <h1 class="display-4">Over Ons</h1>
+              <p class="lead">Hey, leuk dat je deze pagina bezoekt, hierin vertellen wij iets over onzelf.</p>
+              <hr class="my-4">
+              <p>Wij zijn Kimberly en Joram en wij hebben deze website gemaakt als schoolproject.</p>
+              <p>Wij hebben gekozen voor Dyslexie omdat Joram zelf Dyslexie heeft.</p>
+              <p> Wij zitten in het eerste Jaar van de MBO niveau 4 opleiding applicatie en mediaontwikkelaar</p>
+              <p> op Mbo Utrecht in utrecht.</p>
+              </div>
+          </div>
         </div>
-      </div>
       <!--Social media buttons-->
-      <div class="sharethis-inline-follow-buttons"></div>+
+      <div class="sharethis-inline-follow-buttons"></div>
 
     </body>
 </html>
