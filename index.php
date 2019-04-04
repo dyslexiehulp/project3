@@ -60,7 +60,11 @@
               <h1 class="display-4">Welkom!</h1>
               <p class="lead">Dyslexie? Wij helpen je verder!</p>
               <hr class="my-4">
-              <p>Hey, </p>
+              <p><h3>Hey, Heb jij ook moeite met lezen?</h3>
+              kun je (sommige) letters moeilijk uit elkaar houden?<br> 
+              Dan is de kans groot dat jij net als 1,19 miljoen andere mensen dyslexie hebt.<br>
+              Dat is helemaal niet erg, wij hebben onze website daarvoor namelijk opgebouwd met handige tips en leuke weetjes over dyslexie!<br>
+              Neem gerust een kijkje, als je het niet snapt kun je ons altijd mailen. het mailadres staat op de Over Ons Pagina!</p>
               </div>
               </div>
             </div>
