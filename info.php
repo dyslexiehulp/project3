@@ -50,7 +50,7 @@ Wist je dat ongeveer 3,7% van de leerlingen dyslexie heeft?<br>
 Wist je dat dyslexie 2 maal zoveel voorkomt bij jongens als bij meisjes?<br>
 <h2>DNA</h2>
 Wist je dat dyslexie erfelijk is?<br>
-
+<br>
 <h1>Vormen van dyslexie</h1>
 Dyslexie kan optreden bij kinderen als ontwikkelingsstoornis of als gevolg van hersenbeschadiging.<br> 
 Kinderen die het predicaat ‘dyslexie’ krijgen, blijken een heterogene groep te vormen.<br>
@@ -60,13 +60,13 @@ Twee vormen die bij patiënten met hersenbeschadiging kunnen optreden worden hie
 Oppervlaktedyslexie wil zeggen dat men problemen heeft met het herkennen van het woordbeeld.<br>
 Bij fonologische dyslexie is het net andersom: men heeft geen moeite met het woordbeeld maar met het uitspreken van woorden.<br> 
 Hierbij ondervindt men vooral problemen bij het lezen van onbekende of onzinwoorden.<br>
-
+<br>
 <h1>Vroege jeugd</h1>
 Dyslexie is een ontwikkelingsstoornis die personen van alle leeftijden betreft, maar de symptomen verschillen per leeftijd.<br> 
 In onderzoek bij kinderen met een erfelijk risico op dyslexie worden moeilijkheden met de spraakproductie en grammaticale ontwikkeling gemeld bij een leeftijd van 30 maanden,<br> 
 gevolgd door een tragere verwerving van de woordenschat gedurende de jaren voordat ze naar school gaan, resulterend in achterstanden in fonologische ontwikkeling en kennis van het alfabet bij jonge schoolkinderen. 
 Meldingen van ouders van achterstanden met spraak en taal bij kinderen met leesmoeilijkheden zijn gewoon in epidemiologische studies.<br>
-
+<br>
 <h1>Kenmerken van dyslexie</h1>
 Kinderen met dyslexie kunnen moeite hebben:<br>
 Om het verschil te horen tussen klanken als m en n; p, t en k; s, f en g; eu, u en ui<br>
