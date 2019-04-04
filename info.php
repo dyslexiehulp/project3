@@ -27,45 +27,54 @@
               <p class="lead">Op deze pagina kan je meer info over dyslexie vinden.</p>
               <hr class="my-4">
               <p>
-Weetjes
-niet alleen lezen
-Wist je dat dyslexie ook invloed kan hebben op het spreken, luisteren, schrijven en handschrift?
-Vergeetachtig
-Wist je dat dyslectici vaak vergeetachtig zijn?
-Bekende dyslecten
-Wist je dat er veel bekende dyslectici zijn, zoals:
-- De filmmaker: Walt Disney
-- De uitvinders: Albert Einstein en Thomas Edison
-- De kunstenaar: Pablo Picasso
-- De politici: George W. Bush, George Washington en J. F. Kennedy
-- De artiesten: Orlando Bloom, Tom Cruise, Victor Reinier en Peter Jan Rens
-- De schrijvers: Jacques Vriens, Roald Dahl, Sally Gardner
-- De componist: Ludwig van Beethoven?
-Wist je dat er vanaf 2001 een landelijk 'protocol leesproblemen en dyslexie' is waarmee veel scholen nu werken? En veel scholen ook nog niet!!!!!
-Grieks
-Wist je dat dyslexie een woord uit de Griekse taal is, het betekent `slecht lezen`?
-3,7%
-Wist je dat ongeveer 3,7% van de leerlingen dyslexie heeft?
-m/v
-Wist je dat dyslexie 2 maal zoveel voorkomt bij jongens als bij meisjes?
-DNA
-Wist je dat dyslexie erfelijk is?
+<h1>Weetjes</h1>
+niet alleen lezen<br>
+Wist je dat dyslexie ook invloed kan hebben op het spreken, luisteren, schrijven en handschrift?<br>
+<h2>Vergeetachtig</h2>
+Wist je dat dyslectici vaak vergeetachtig zijn?<br>
+<h2>Bekende dyslecten</h2>
+Wist je dat er veel bekende dyslectici zijn, zoals:<br>
+- De filmmaker: Walt Disney<br>
+- De uitvinders: Albert Einstein en Thomas Edison<br>
+- De kunstenaar: Pablo Picasso<br>
+- De politici: George W. Bush, George Washington en J. F. Kennedy<br>
+- De artiesten: Orlando Bloom, Tom Cruise, Victor Reinier en Peter Jan Rens<br>
+- De schrijvers: Jacques Vriens, Roald Dahl, Sally Gardner<br>
+- De componist: Ludwig van Beethoven?<br>
+Wist je dat er vanaf 2001 een landelijk 'protocol leesproblemen en dyslexie' is waarmee veel scholen nu werken? En veel scholen ook nog niet!!!!!<br>
+<h2>Grieks</h2>
+Wist je dat dyslexie een woord uit de Griekse taal is, het betekent `slecht lezen`?<br>
+<h2>3,7%</h2>
+Wist je dat ongeveer 3,7% van de leerlingen dyslexie heeft?<br>
+<h2>m/v</h2>
+Wist je dat dyslexie 2 maal zoveel voorkomt bij jongens als bij meisjes?<br>
+<h2>DNA</h2>
+Wist je dat dyslexie erfelijk is?<br>
 
-Vormen van dyslexie
-Dyslexie kan optreden bij kinderen als ontwikkelingsstoornis of als gevolg van hersenbeschadiging. Kinderen die het predicaat ‘dyslexie’ krijgen, blijken een heterogene groep te vormen. Er kunnen problemen zijn in het herkennen van het visuele woordbeeld, of problemen in de sfeer van begrijpen van taal en klanken. De meeste dyslectische kinderen (85%) blijken daarbij niet zozeer moeite te hebben met het herkennen van het visuele woordbeeld, maar met het verbinden van een letter met een klank.
-Twee vormen die bij patiënten met hersenbeschadiging kunnen optreden worden hierna beschreven. Oppervlaktedyslexie wil zeggen dat men problemen heeft met het herkennen van het woordbeeld. Bij fonologische dyslexie is het net andersom: men heeft geen moeite met het woordbeeld maar met het uitspreken van woorden. Hierbij ondervindt men vooral problemen bij het lezen van onbekende of onzinwoorden.
+<h1>Vormen van dyslexie</h1>
+Dyslexie kan optreden bij kinderen als ontwikkelingsstoornis of als gevolg van hersenbeschadiging.<br> 
+Kinderen die het predicaat ‘dyslexie’ krijgen, blijken een heterogene groep te vormen.<br>
+Er kunnen problemen zijn in het herkennen van het visuele woordbeeld, of problemen in de sfeer van begrijpen van taal en klanken.<br> 
+De meeste dyslectische kinderen (85%) blijken daarbij niet zozeer moeite te hebben met het herkennen van het visuele woordbeeld, maar met het verbinden van een letter met een klank.<br>
+Twee vormen die bij patiënten met hersenbeschadiging kunnen optreden worden hierna beschreven.<br>
+Oppervlaktedyslexie wil zeggen dat men problemen heeft met het herkennen van het woordbeeld.<br>
+Bij fonologische dyslexie is het net andersom: men heeft geen moeite met het woordbeeld maar met het uitspreken van woorden.<br> 
+Hierbij ondervindt men vooral problemen bij het lezen van onbekende of onzinwoorden.<br>
 
-Vroege jeugd
-Dyslexie is een ontwikkelingsstoornis die personen van alle leeftijden betreft, maar de symptomen verschillen per leeftijd. In onderzoek bij kinderen met een erfelijk risico op dyslexie worden moeilijkheden met de spraakproductie en grammaticale ontwikkeling gemeld bij een leeftijd van 30 maanden, gevolgd door een tragere verwerving van de woordenschat gedurende de jaren voordat ze naar school gaan, resulterend in achterstanden in fonologische ontwikkeling en kennis van het alfabet bij jonge schoolkinderen. Meldingen van ouders van achterstanden met spraak en taal bij kinderen met leesmoeilijkheden zijn gewoon in epidemiologische studies.
+<h1>Vroege jeugd</h1>
+Dyslexie is een ontwikkelingsstoornis die personen van alle leeftijden betreft, maar de symptomen verschillen per leeftijd.<br> 
+In onderzoek bij kinderen met een erfelijk risico op dyslexie worden moeilijkheden met de spraakproductie en grammaticale ontwikkeling gemeld bij een leeftijd van 30 maanden,<br> 
+gevolgd door een tragere verwerving van de woordenschat gedurende de jaren voordat ze naar school gaan, resulterend in achterstanden in fonologische ontwikkeling en kennis van het alfabet bij jonge schoolkinderen. 
+Meldingen van ouders van achterstanden met spraak en taal bij kinderen met leesmoeilijkheden zijn gewoon in epidemiologische studies.<br>
 
-Kenmerken van dyslexie
-Kinderen met dyslexie kunnen moeite hebben:
-Om het verschil te horen tussen klanken als m en n; p, t en k; s, f en g; eu, u en ui
-Om de klanken in volgorde te zetten, zoals bij ‘dorp’ en ‘drop’ of ‘12’ en ‘21’
-Om de aandacht te houden bij ‘klankinformatie’ (gesproken woord)
-Met het inprenten van reeksen, bijvoorbeeld tafels of spellingsregels
-Met het onthouden van vaste woordcombinaties, uitdrukkingen of gezegdes
-Met het onthouden van losse gegevens, zoals rijtjes, woordjes en jaartallen
+<h1>Kenmerken van dyslexie</h1>
+Kinderen met dyslexie kunnen moeite hebben:<br>
+Om het verschil te horen tussen klanken als m en n; p, t en k; s, f en g; eu, u en ui<br>
+Om de klanken in volgorde te zetten, zoals bij ‘dorp’ en ‘drop’ of ‘12’ en ‘21’<br>
+Om de aandacht te houden bij ‘klankinformatie’ (gesproken woord)<br>
+Met het inprenten van reeksen, bijvoorbeeld tafels of spellingsregels<br>
+Met het onthouden van vaste woordcombinaties, uitdrukkingen of gezegdes<br>
+Met het onthouden van losse gegevens, zoals rijtjes, woordjes en jaartallen<br>
 
 </p>
             </div>
