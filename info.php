@@ -63,7 +63,7 @@ Hierbij ondervindt men vooral problemen bij het lezen van onbekende of onzinwoor
 <br>
 <h1>Vroege jeugd</h1>
 Dyslexie is een ontwikkelingsstoornis die personen van alle leeftijden betreft, maar de symptomen verschillen per leeftijd.<br> 
-In onderzoek bij kinderen met een erfelijk risico op dyslexie worden moeilijkheden met de spraakproductie en grammaticale ontwikkeling gemeld bij een leeftijd van 30 maanden,<br> 
+In onderzoek bij kinderen met een erfelijk risico op dyslexie worden moeilijkheden met de spraakproductie en grammaticale ontwikkeling gemeld bij een leeftijd van 30 maanden,
 gevolgd door een tragere verwerving van de woordenschat gedurende de jaren voordat ze naar school gaan, resulterend in achterstanden in fonologische ontwikkeling en kennis van het alfabet bij jonge schoolkinderen. 
 Meldingen van ouders van achterstanden met spraak en taal bij kinderen met leesmoeilijkheden zijn gewoon in epidemiologische studies.<br>
 <br>
