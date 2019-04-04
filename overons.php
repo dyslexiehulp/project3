@@ -49,7 +49,7 @@
                       </p>
                   </div>
                   <div class="card-footer text-muted">
-                        By Dyslexiehulp
+                        
                   </div>
               </div>
           </div>
