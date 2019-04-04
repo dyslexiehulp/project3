@@ -29,11 +29,31 @@
               <hr class="my-4">
               <p>Wij zijn Kimberly en Joram en wij hebben deze website gemaakt als schoolproject.<br>
                 Wij hebben gekozen voor Dyslexie omdat Joram zelf Dyslexie heeft.<br>
-                Wij zitten in het eerste Jaar van de MBO niveau 4 opleiding applicatie en mediaontwikkelaar<br>
-                op Mbo Utrecht in Utrecht.</p>
+                Wij zitten in het eerste Jaar van de MBO niveau 4 opleiding applicatie en mediaontwikkelaar op Mbo Utrecht in Utrecht.</p>
               </div>
           </div>
         </div>
+                    <!-- Contact-->
+                    <div class="row">
+          <div class="col-12">
+              <div class="card text-center">
+                  <div class="card-header">
+                      Contact
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">Snap je iets niet?<br> 
+                      Heb je een vraag of een opmerking?<br>
+                      Hieronder staan een telefoonnummer en een mailadres waarop je ons kunt bereiken!<br>
+                      Email: Info@dyslexiehulp.nl<br>
+                      telefoonnummer(alleen Watsapp): 06 - 257 050 51
+                      </p>
+                  </div>
+                  <div class="card-footer text-muted">
+                        By Dyslexiehulp
+                  </div>
+              </div>
+          </div>
+      </div>
       <!--import van de footer -->
       <div class="row">
           <div class="col-12">
