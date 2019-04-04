@@ -9,7 +9,7 @@
       <div class="navbar-nav">
         <a class="nav-item nav-link" href="./info.php">Informatie</a>
         <a class="nav-item nav-link" href="./oefenen.php">Oefeningen</a>
-        <a class="nav-item nav-link" href="./register.php">Inloggen</a>
+        <a class="nav-item nav-link" href="./inloggen.php">Inloggen</a>
         <a class="nav-item nav-link" href="./overons.php">Over ons</a>
       </div>
     </div>
