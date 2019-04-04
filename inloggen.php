@@ -15,6 +15,7 @@
     <main class="container">
       <div class="row">
           <div class="col-12">
+          <form action="./login_script" method="post">
               <?php include("./navbar.php"); ?>
           </div>
       </div>

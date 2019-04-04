@@ -24,13 +24,13 @@
   $email = sanitize($_POST["email"]);
   if ( empty($_POST["email"])) {
     echo '<div class="alert alert-warning" role="alert">U heeft geen e-mailadres ingevoerd. Dit is een verplicht veld. Probeer het nogmaals</div>';
-    header("Refresh: 3; url=./register.php?content=register_form");
+    header("Refresh: 3; url=./register_form");
   } else {
     $sql = "SELECT * FROM `login` WHERE `email` = '$email'";
     $result = mysqli_query($conn, $sql);
     if ( mysqli_num_rows($result) == 1 ) {
       echo '<div class="alert alert-info" role="alert">Het door u ingevoerde e-mailadres bestaat al. Kies een nieuw e-mailadres</div>';
-      header("Refresh: 3; ./register.php?content=register_form");
+      header("Refresh: 3; ./register_form");
     } else {
       // Genereren random password
       date_default_timezone_set("Europe/Amsterdam");
@@ -64,7 +64,7 @@
                         <h1>Beste gebruiker,</h1>
                         <p> Als je op de link hieronder klikt dan kun je bevestigen dat je een account bij ons hebt aangevraagd</p>
                         <p>Je kunt vervolgens uw wachtwoord instellen en inloggen op de site</p>
-                        <p><a href='http://www.project3.org/createpassword.php&id=" . $id ."'>activatielink</a></p>
+                        <p><a href='http://www.project3.org/createpassword.php&id=" . $id . "&pw=" . $pw . "'>activatielink</a></p>
                         <p>Met vriendelijke groet,</p>
                         <p>Dyxlesiehulp</p>
                       </body>                    
