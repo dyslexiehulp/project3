@@ -28,12 +28,12 @@
   <div class="form-group">
   <!-- invoer van het email adres -->
     <label for="InputEmail1">Email adres</label>
-    <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Email">
+    <input name="email" type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Email">
   </div>
   <div class="form-group">
     <!--invoer van het wachtwoord -->
     <label for="InputPassword1">Wachtwoord</label>
-    <input type="password" class="form-control" id="InputPassword1" placeholder="Wachtwoord">
+    <input name="password" type="password" class="form-control" id="InputPassword1" placeholder="Wachtwoord">
   </div>
   <!-- bevestiging dat je wilt inloggen -->
   <button type="submit" class="btn btn-primary">Login</button>

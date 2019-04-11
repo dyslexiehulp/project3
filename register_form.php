@@ -14,7 +14,7 @@
                        placeholder="Voer uw e-mailadres in..." name="email" required>
                 <small id="emailHelp" class="form-text text-muted">Wij zullen nooit uw e-mailadres delen met anderen.</small>
             </div>
-            <!-- bevestiging dat je je wilt registreren op de website 
+            <!-- bevestiging dat je je wilt registreren op de website -->
             <button type="submit" class="btn btn-primary">Sla op!</button>
         </form>
     </div>
