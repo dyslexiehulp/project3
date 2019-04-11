@@ -51,7 +51,7 @@
                         <h1>Beste gebruiker,</h1>
                         <p> Als je op de link hieronder klikt dan kun je bevestigen dat je een account bij ons hebt aangevraagd</p>
                         <p>Je kunt vervolgens uw wachtwoord instellen en inloggen op de site</p>
-                        <p><a href='http://www.loginregistration.am1c.org/index.php?content=createpassword&id=" . $id . "&pw=" . $pw . "'>activatielink</a></p>
+                        <p><a href='http://localhost/project3/createpassword.php" . $id . "&pw=" . $pw . "'>activatielink</a></p>
                         <p>Met vriendelijke groet,</p>
                         <p>Dyxlesiehulp</p>
                       </body>                    

@@ -40,7 +40,7 @@
         default:
         //als je geen juiste role hebt (bijvoorbeeld als je er zelf als hacker 1 wilt maken) dan krijg je deze error en word je uitgelogd
           echo '<div class="alert alert-warning" role="alert">U bent succesvol ingelogd. Maar uw gebruikersrol bestaat niet. Uwordt doorgestuurd naar de standaard homepagina</div>';      
-          header("Refresh: 3; url=./index.php?content=home");
+          header("Refre sh: 3; url=./index.php?content=home");
         break;
       }
       
