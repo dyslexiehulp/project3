@@ -8,35 +8,41 @@
         <ul class="navbar-nav mr-auto">
 
 
-
+              <!--configuratie welke role naar welke pagina moet -->
             <?php
             if ( isset($_SESSION["id"])) {
-
+                  
                 switch ($_SESSION["userrole"]) {
+                  //config van de admin role
                     case 'admin':
                         echo '<li class="nav-item">
                       <a class="nav-link" href="./registeren.php?content=administrator_home">adminhome</a>
                     </li>';
                         break;
+                        //config van de root role
                     case 'root':
                         echo '<li class="nav-item">
                       <a class="nav-link" href="./registreren.php?content=root_home">roothome</a>
                     </li>';
                         break;
+                        //config van de moderator role
                     case 'moderator':
                         echo '<li class="nav-item">
                       <a class="nav-link" href="./registreren.php?content=moderator_home">moderatorhome</a>
                     </li>';
                         break;
+                        //config van de customer role, dit is tevens de standaard role die iedereen krijgt
                     case 'customer':
                         echo '<li class="nav-item">
                       <a class="nav-link" href="./registreren.php?content=customer_home">customerhome</a>
                     </li>';
                         break;
                     default:
+                    //import van de header
                         header("Location: ./registeren.php?content=logout");
                         break;
                 }
+                //import van de uitlog knop
                 echo '<li class="nav-item">
                   <a class="nav-link" href="./registeren.php?content=logout">uitloggen</a>
                 </li>';
@@ -55,5 +61,6 @@
             ?>
         </ul>
     </div>
+    <!--welkom heten van de gebruiker -->
     <span id="welkom"><?php if (isset($_SESSION["email"])) { echo "Welkom " . $_SESSION["email"]; } ?></span>
 </nav>
